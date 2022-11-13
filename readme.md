@@ -67,3 +67,8 @@ Bu kod parçası metod,sınıf olabilir.
 
 * Teardown : Setup'da yapılan konfigurasyonları pasif hale getirme aşaması (Örn: veri tabanı bağlantısını kapat). Genelde bu aşama Entegrasyon testinde uygulanır.
 
+#### Unit test'in refaktör'e etkisi
+
+Refaktör yazılmış kodu iyileştirme düzeltme işlemleridir. Refaktör edeceğimiz birim herzaman bizim yazdığımız
+bir kod parçası olmayabilir veya aylar yıllar önce yazdığımız ve unuttuğumuz kod olabilir. Senaryoları hiç bilmiyor veya unutmuş olabiliriz.
+Unit testler bize senaryo hakkında bilgiler verir ve önceden yazılan testlerden geçerek sistemin hali hazırdaki icrasını bozmadığımızı teyit etmiş oluruz.
