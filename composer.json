@@ -1,0 +1,18 @@
+{
+    "name": "user/php-tdd-unit-test",
+    "description": "TDD Hakkinda notlarim 13.11.2022",
+    "autoload": {
+        "psr-4": {
+            "User\\PhpTddUnitTest\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "abdurrahim bulut",
+            "email": "abdurrahim.bulut@tsoft.com.tr"
+        }
+    ],
+    "require-dev": {
+        "phpunit/phpunit": "^9.5"
+    }
+}
