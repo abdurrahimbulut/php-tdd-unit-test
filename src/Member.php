@@ -31,7 +31,7 @@ class Member
     /**
      * @return integer
      * */
-    public function sumMemberAge()
+    public function sumMembersAge()
     {
         $totalAge = 0;
         foreach ($this->members as $member){
