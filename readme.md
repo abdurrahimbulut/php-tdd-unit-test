@@ -35,7 +35,7 @@ Kod parçasına girdiler verilerek beklenen çıktının doğruluğu test edilir
 
 TDD'nin yoğunlaştığı test unit testtir.
 
-####kod parçası/birim ile ne kastedilir?
+#### kod parçası/birim ile ne kastedilir?
 
 Kent Beck'e göre unit(birim)'den kasıt "tek bir işe odaklı"(unit of functionality)  kod parçasıdır.
 Bu kod parçası metod,sınıf olabilir.
